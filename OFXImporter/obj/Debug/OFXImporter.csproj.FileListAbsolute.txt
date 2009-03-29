@@ -1,0 +1,8 @@
+c:\Dev\OFXImporter\OFXImporter\obj\Debug\ResolveAssemblyReference.cache
+c:\Dev\OFXImporter\OFXImporter\obj\Debug\OFXImporter.csproj.GenerateResource.Cache
+c:\Dev\OFXImporter\OFXImporter\bin\Debug\OFXImporter.dll
+c:\Dev\OFXImporter\OFXImporter\bin\Debug\OFXImporter.pdb
+c:\Dev\OFXImporter\OFXImporter\bin\Debug\SgmlReaderDll.dll
+c:\Dev\OFXImporter\OFXImporter\obj\Debug\OFXImporter.dll
+c:\Dev\OFXImporter\OFXImporter\obj\Debug\OFXImporter.pdb
+c:\Dev\OFXImporter\OFXImporter\obj\Debug\OFXImporter.Resources.resources
